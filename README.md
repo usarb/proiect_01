@@ -5,3 +5,4 @@ Pe 8 octombrie am salvat clientii inregistrati in baza de date si am facut ca ei
 In data de 10 octombrie am studiat despre MVC
 Pe 11 octombrie am facut OOP pentru clienti
 Pe 14 octombrie am facut clase pentru categorie, produse si comanda
+Pe 15 octombrie am facut directoarele si setarile pentru site
