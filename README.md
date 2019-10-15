@@ -4,3 +4,4 @@ Pe 7 octombrie am am facut baza de date initiala, și am rezolvat cu înregistra
 Pe 8 octombrie am salvat clientii inregistrati in baza de date si am facut ca ei sa se poata loga. Clientii nu se pot inregistra cu acelasi username si cu acelasi email
 In data de 10 octombrie am studiat despre MVC
 Pe 11 octombrie am facut OOP pentru clienti
+Pe 14 octombrie  am facut sait pentru internet magazin.
