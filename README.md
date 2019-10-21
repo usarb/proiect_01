@@ -7,3 +7,4 @@ Pe 11 octombrie am facut OOP pentru clienti
 Pe 14 octombrie am facut clase pentru categorie, produse si comanda
 Pe 15 octombrie am facut directoarele si setarile pentru site
 In 16 octombrie am facut clasa route controler.
+In data de 21 octombrie am facut ca la fiecare produs sa aiba imagine
