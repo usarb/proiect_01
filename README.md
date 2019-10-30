@@ -8,3 +8,6 @@ Pe 14 octombrie am facut clase pentru categorie, produse si comanda
 Pe 15 octombrie am facut directoarele si setarile pentru site
 In 16 octombrie am facut clasa route controler.
 In data de 21 octombrie am facut ca la fiecare produs sa aiba imagine
+
+
+SC: Vezi acest link https://github.com/elenaticau/proiect_01/issues
